@@ -1,0 +1,1 @@
+# Alguns scripts, dicas e imagens Docker para Infra
